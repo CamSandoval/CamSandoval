@@ -8,9 +8,9 @@
 I am a java / spring software developer graduated from the Oracle Next Education program, I have knowledge in managing Linux systems, architectures and software design patterns
 <br> 
 </br>
-<img height="300" src="./insignias/cms_files_10224_1671210503Prancheta_3.png" />
-<img height="300" src="./insignias/cms_files_10224_1671211831Prancheta_8.png" />
-<img height="300" src="./insignias/cms_files_10224_1677508436Prancheta_1.png" />
+<img height="280" src="./insignias/cms_files_10224_1671210503Prancheta_3.png" />
+<img height="280" src="./insignias/cms_files_10224_1671211831Prancheta_8.png" />
+<img height="280" src="./insignias/cms_files_10224_1677508436Prancheta_1.png" />
 
 ## Skills
 
@@ -23,16 +23,7 @@ I am a java / spring software developer graduated from the Oracle Next Education
 ![Comunicación](https://img.shields.io/badge/Comunicación-9890FF.svg?style=for-the-badge&logo=Comunicación%20After%20Effects&logoColor=white) ![Trabajo en Equipo](https://img.shields.io/badge/Trabajo_en_Equipo-1199FF.svg?style=for-the-badge&logo=TrabajoenEquipo%20Audition&logoColor=white)
 ![Notion](https://img.shields.io/badge/NOTION-hotpink.svg?style=for-the-badge&logo=Notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-9999FF.svg?style=for-the-badge&logo=Trello&logoColor=white) ![MetodoligiaAgile](https://img.shields.io/badge/Agile-9999FF.svg?style=for-the-badge&logo=Agile%20Audition&logoColor=white)
 
-
-## Contacto
-
-Puedes encontrarme en:
 <br> 
 </br>
-
-- [LinkedIn]([https://www.linkedin.com/tu_perfil](https://www.linkedin.com/in/juan-camilo-sandoval-hernandez-0188a424b/))
-- [Instagram]([https://www.twitter.com/tu_perfil](https://www.instagram.com/camilosandoval_0/))
-<br>
-<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CamSandoval&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact) 
