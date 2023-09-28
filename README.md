@@ -5,7 +5,7 @@
 ## About me
 
 I'm a software developer gradueated by Oracle Next Education Program
-![Insignia 1](./insignias/cms_files_10224_1671210503Prancheta_3.png)
+<img align="left" height="100" src="./insignias/cms_files_10224_1671210503Prancheta_3.png" />
 ![Insignia 2](./insignias/cms_files_10224_1671211831Prancheta_8.png)
 ![Insignia 3](./insignias/cms_files_10224_1677508436Prancheta_1.png)
 
