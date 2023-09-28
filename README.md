@@ -8,9 +8,9 @@
 I am a java / spring software developer graduated from the Oracle Next Education program, I have knowledge in managing Linux systems, architectures and software design patterns
 <br> 
 </br>
-<img height="280" src="./insignias/cms_files_10224_1671210503Prancheta_3.png" />
-<img height="280" src="./insignias/cms_files_10224_1671211831Prancheta_8.png" />
-<img height="280" src="./insignias/cms_files_10224_1677508436Prancheta_1.png" />
+<img height="250" src="./insignias/cms_files_10224_1671210503Prancheta_3.png" />
+<img height="250" src="./insignias/cms_files_10224_1671211831Prancheta_8.png" />
+<img height="250" src="./insignias/cms_files_10224_1677508436Prancheta_1.png" />
 
 ## Skills
 
